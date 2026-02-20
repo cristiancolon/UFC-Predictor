@@ -177,6 +177,9 @@ print(predictions)
 - **Prediction Confidence**: Vote share provides prediction confidence levels
 - **Model Comparison**: Both Random Forest implementations show similar performance
 
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
 ## 🛠️ Development Workflow
 
 1. **Data Collection**: Gather raw fight data from multiple sources

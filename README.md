@@ -177,6 +177,9 @@ print(predictions)
 - **Prediction Confidence**: Vote share provides prediction confidence levels
 - **Model Comparison**: Both Random Forest implementations show similar performance
 
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
 ### Feature Importance
 ![Feature Importance](feature_importance.png)
 
